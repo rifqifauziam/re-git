@@ -109,7 +109,7 @@ export const NoReadmeMessage = styled.p`
 
 export const ReadmeContainer = styled.div`
 max-width: 800px;
-width: 100%;
+width: 85%;
 padding: 20px;
 border: 1px solid #ddd;
 border-radius: 4px;
