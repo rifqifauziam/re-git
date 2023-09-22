@@ -16,7 +16,7 @@ const SearchPage: React.FC = () => {
 
   return (
     <PageContainer hidden ={isVisible}>
-      <Title>Search Page</Title>
+      <Title>Search Username</Title>
       <SearchInput />
     </PageContainer>
   );
